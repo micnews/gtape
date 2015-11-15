@@ -1,0 +1,32 @@
+{
+  "name": "gtape",
+  "version": "0.0.0",
+  "description": "Version of tape that works with tape (but also without, your call)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/gtape.git"
+  },
+  "keywords": [
+    "tape",
+    "test",
+    "generators"
+  ],
+  "author": "mic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/gtape/issues"
+  },
+  "homepage": "https://github.com/micnews/gtape#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "is-generator": "^1.0.2"
+  },
+  "devDependencies": {
+    "co-wait": "0.0.0",
+    "tape": "^4.2.2"
+  }
+}
