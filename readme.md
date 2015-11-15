@@ -1,6 +1,6 @@
 # gtape 
 
-Version of tape that works with tape (but also without, your call)
+Version of tape that works with generators (but also without, your call)
 
 ## Installation
 
